@@ -18,6 +18,7 @@ I also use AI tools to assist in development and problem solving.
 - JavaScript
 - Bootstrap
 - MySQL
+- MongoDB
 
 ---
 
