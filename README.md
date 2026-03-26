@@ -2,42 +2,48 @@
 **Software Developer | AI Automation Engineer | Backend Architect**
 **📍 Surat, Gujarat, India | 🎓 BCA Final Year**
 
-> "I don't just write code; I architect automated workflows and scalable systems that solve real-world problems."
+> "I build practical automation systems and software workflows that solve real-world problems."
 
 ---
 <div align="center">
   <h2>📊 My GitHub Stats</h2>
-  
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Salman-Shaikh-92&show_icons=true&theme=radical&hide_border=true" alt="Salman's GitHub Stats" />
-  
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Shaikh-92&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-### 🚀 Architected Solutions (Featured Work)
-
-#### 1. 🎙️ AI-Powered English Learning Bot
-*An intelligent, No-Code Telegram voice bot functioning as a personal language tutor.*
-* **The Build:** Architected using **Make.com**, **Google Gemini Flash**, and **Google TTS API**.
-* **The Impact:** Processes user audio/text, corrects grammar in real-time, and generates native voice responses, completely eliminating the need for traditional backend server hosting.
-
-#### 2. 💊 Medi Share - Medicine Redistribution Platform
-*A full-stack web application designed to combat medical waste and safely connect donors with patients.*
-* **The Build:** Developed with **React.js** (Frontend), **FastAPI** (Backend), and **MongoDB**.
-* **The Impact:** Features secure user authentication, dynamic inventory routing, and an integrated **RAG-based AI Health Assistant** (via Dify) to provide instant healthcare guidance.
-
-#### 3. 📊 AI Productivity & Burnout Risk Analysis
-*A data-driven machine learning project analyzing the psychological impact of AI on the modern workforce.*
-* **The Build:** Programmed in **Python** using **Pandas**, **Matplotlib**, and **Scikit-Learn**.
-* **The Impact:** Implemented Linear and Logistic Regression models to accurately predict employee burnout risks based on AI tool usage, extracting actionable insights from complex datasets.
+### ⚙️ Core Engineering Stack
+* **Programming:** Python, Java, C++, JavaScript, PHP
+* **Automation & AI:** Make.com, Dify, RAG Systems, API Integrations
+* **Databases:** MySQL, PostgreSQL, MongoDB, SQL Server
+* **Web Development:** HTML/CSS, Bootstrap, REST APIs
 
 ---
 
-### 🏗️ Other Technical Projects
-* **Instagram Workflow Automation:** End-to-end social media publishing and lead engagement system via Make.com and Google Workspace.
-* **Campus Feedback System:** Dynamic PHP/MySQL application with automated email notification triggers.
-* **BCA Quiz App:** Semester-wise MCQ assessment application tailored for university students.
+### 🚀 Architected Solutions (Featured Work)
+
+#### 1. 🤖 Social Media & Lead Automation System
+*An end-to-end automation workflow built for hands-free social media management.*
+* **The Build:** Architected using **Make.com** and **Google Workspace**.
+* **The Impact:** Automatically pulls content from Google Sheets to publish Instagram posts and handles automated replies to user comments, saving hours of manual effort.
+
+#### 2. 🧠 RAG-Based AI Chatbot
+*A knowledge-based AI assistant designed for accurate information retrieval.*
+* **The Build:** Developed using **Dify AI** and Retrieval-Augmented Generation (RAG) concepts.
+* **The Impact:** Retrieves specific information from uploaded documents to generate highly contextual and accurate responses without hallucination.
+
+#### 3. 🏫 Campus Feedback System
+*A dynamic web portal for university students to submit feedback securely.*
+* **The Build:** Programmed with **PHP**, **MySQL**, and **Bootstrap**.
+* **The Impact:** Streamlines the feedback process with an easy-to-use UI and triggers automated email notifications to administrators upon submission.
+
+#### 4. 📝 BCA Quiz Game Application
+*An academic assessment tool tailored for university curriculum.*
+* **The Build:** Developed to handle dynamic data.
+* **The Impact:** Allows students to practice semester-wise and subject-based Multiple Choice Questions (MCQs) for exam preparation.
 
 ---
 
@@ -49,8 +55,8 @@
 
 ---
 
-### 🎯 Current Engineering Focus
-`Advanced System Design` • `Django Architecture` • `Scalable AI Workflows`
+### 🌱 Currently Learning
+`Django` • `Backend Architecture` • `Advanced Python Automation`
 
 ---
 
