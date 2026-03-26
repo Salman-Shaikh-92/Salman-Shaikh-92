@@ -1,6 +1,6 @@
 # 👨‍💻 Salman Shaikh
 **Software Developer | AI Automation Engineer | Backend Architect**
-📍 Surat, Gujarat, India | 🎓 BCA Final Year
+**📍 Surat, Gujarat, India | 🎓 BCA Final Year**
 
 > "I don't just write code; I architect automated workflows and scalable systems that solve real-world problems."
 
