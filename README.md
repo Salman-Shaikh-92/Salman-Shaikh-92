@@ -5,11 +5,13 @@
 > "I don't just write code; I architect automated workflows and scalable systems that solve real-world problems."
 
 ---
-
-### ⚙️ Core Engineering Stack
-* **Backend & APIs:** Python, FastAPI, Node.js, PHP, RESTful Architecture
-* **Data & AI:** MongoDB, SQL, Pandas, Scikit-Learn, Make.com, RAG Systems (Dify)
-* **Frontend:** React, HTML5/CSS3, Bootstrap
+<div align="center">
+  <h2>📊 My GitHub Stats</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Salman-Shaikh-92&show_icons=true&theme=radical&hide_border=true" alt="Salman's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Shaikh-92&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
