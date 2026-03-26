@@ -10,7 +10,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=Salman-Shaikh-92&show_icons=true&theme=radical&hide_border=true" alt="Salman's GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Shaikh-92&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Shaikh-92&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
