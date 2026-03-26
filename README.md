@@ -49,14 +49,14 @@
 
 ### 💼 Professional Experience
 
-**ERP Development Intern**
-* Maintained and optimized Enterprise Resource Planning (ERP) systems using Delphi.
-* Executed complex database queries and supported the core engineering team in full-cycle software development tasks.
+**No-Code AI Automation & ERP Experience**
+* Hands-on experience building and deploying No-Code AI Automation workflows to streamline business processes.
+* Maintained and optimized Enterprise Resource Planning (ERP) systems (Delphi), executing complex database queries and supporting full-cycle software development tasks.
 
 ---
 
-### 🌱 Currently Learning
-`Django` • `Backend Architecture` • `Advanced Python Automation`
+### 🌱 Currently Learning & Exploring
+`No-Code AI Automation` • `Advanced API Integrations` • `Agentic AI Workflows` • `Angular 17` • `Django Architecture`
 
 ---
 
