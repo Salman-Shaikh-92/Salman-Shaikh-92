@@ -1,135 +1,57 @@
-# Hi 👋 I'm Salman
+# 👨‍💻 Salman Shaikh
+**Software Developer | AI Automation Engineer | Backend Architect**
+📍 Surat, Gujarat, India | 🎓 BCA Final Year
 
-🎓 BCA Final Year Student from India
-💻 Software Developer | Python & Backend Enthusiast
-⚡ Interested in Automation, Backend Development and AI Workflows
-
-I enjoy building practical projects and automation systems that solve real world problems.
-I like connecting different tools and technologies to automate workflows and improve productivity.
+> "I don't just write code; I architect automated workflows and scalable systems that solve real-world problems."
 
 ---
 
-## 🛠 Tech Skills
-
-### Programming
-
-* Python
-* Java
-* JavaScript
-* C++
-* PHP (Basic)
-
-### Web Development
-
-* HTML
-* CSS
-* Bootstrap
-* Django (Learning)
-
-### Databases
-
-* MySQL
-* PostgreSQL
-* SQLite
-* Microsoft SQL Server
-* Oracle Database
-* MongoDB
-
-### Development Tools
-
-* GitHub
-* REST API Development
-* System Design
+### ⚙️ Core Engineering Stack
+* **Backend & APIs:** Python, FastAPI, Node.js, PHP, RESTful Architecture
+* **Data & AI:** MongoDB, SQL, Pandas, Scikit-Learn, Make.com, RAG Systems (Dify)
+* **Frontend:** React, HTML5/CSS3, Bootstrap
 
 ---
 
-## 🤖 Automation & AI
+### 🚀 Architected Solutions (Featured Work)
 
-* Workflow Automation
-* API Integrations
-* AI Assisted Development
+#### 1. 🎙️ AI-Powered English Learning Bot
+*An intelligent, No-Code Telegram voice bot functioning as a personal language tutor.*
+* **The Build:** Architected using **Make.com**, **Google Gemini Flash**, and **Google TTS API**.
+* **The Impact:** Processes user audio/text, corrects grammar in real-time, and generates native voice responses, completely eliminating the need for traditional backend server hosting.
 
-Tools & Platforms:
+#### 2. 💊 Medi Share - Medicine Redistribution Platform
+*A full-stack web application designed to combat medical waste and safely connect donors with patients.*
+* **The Build:** Developed with **React.js** (Frontend), **FastAPI** (Backend), and **MongoDB**.
+* **The Impact:** Features secure user authentication, dynamic inventory routing, and an integrated **RAG-based AI Health Assistant** (via Dify) to provide instant healthcare guidance.
 
-* Make (automation platform)
-* Dify
-* Google Workspace Automation
-
-Concepts:
-
-* Retrieval-Augmented Generation (RAG Systems)
-
----
-
-## 🚀 Projects
-
-### AI Automation Workflows
-
-Automation workflows built to automate business processes like lead management and notifications using Google tools and automation platforms.
-
-### Instagram Automation System
-
-Automation workflows for social media management.
-
-Features include:
-
-* Automatic Instagram post publishing from Google Sheets
-* Automatic reply to Instagram comments
-
-### RAG AI Chatbot
-
-A knowledge-based AI chatbot that retrieves information from documents and generates context-aware responses.
-
-Built using:
-
-* Dify
-
-### Campus Feedback System
-
-A web-based feedback system built using PHP, MySQL and Bootstrap where students can submit feedback and receive email notifications.
-
-### Quiz Game App
-
-A quiz application for BCA students with semester and subject-based MCQs.
-
-### MediShare (Ongoing Project)
-
-A healthcare related project currently being explored using modern web technologies.
-
-Technologies being explored:
-
-* React
-* FastAPI
-* MongoDB
+#### 3. 📊 AI Productivity & Burnout Risk Analysis
+*A data-driven machine learning project analyzing the psychological impact of AI on the modern workforce.*
+* **The Build:** Programmed in **Python** using **Pandas**, **Matplotlib**, and **Scikit-Learn**.
+* **The Impact:** Implemented Linear and Logistic Regression models to accurately predict employee burnout risks based on AI tool usage, extracting actionable insights from complex datasets.
 
 ---
 
-## 💼 Internship Experience
-
-### ERP Development Intern
-
-Worked on ERP systems using
-Delphi
-
-Responsibilities included:
-
-* Working with ERP modules
-* Database queries
-* Supporting software development tasks
+### 🏗️ Other Technical Projects
+* **Instagram Workflow Automation:** End-to-end social media publishing and lead engagement system via Make.com and Google Workspace.
+* **Campus Feedback System:** Dynamic PHP/MySQL application with automated email notification triggers.
+* **BCA Quiz App:** Semester-wise MCQ assessment application tailored for university students.
 
 ---
 
-## 🌱 Currently Learning
+### 💼 Professional Experience
 
-* Django
-* Backend Development
-* Python Automation
-* AI Automation Workflows
-* Full Stack Development
+**ERP Development Intern**
+* Maintained and optimized Enterprise Resource Planning (ERP) systems using Delphi.
+* Executed complex database queries and supported the core engineering team in full-cycle software development tasks.
 
 ---
 
-## 📫 Connect with me
+### 🎯 Current Engineering Focus
+`Advanced System Design` • `Django Architecture` • `Scalable AI Workflows`
 
-LinkedIn:
-https://www.linkedin.com/in/shaikh-salman-5b31182ba
+---
+
+### 🌐 Let's Connect
+
+[![LinkedIn Profile](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaikh-salman-5b31182ba)
