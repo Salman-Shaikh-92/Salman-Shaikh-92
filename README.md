@@ -1,8 +1,8 @@
-# 👨‍💻 Salman Shaikh
-**Software Developer | AI Automation Engineer | Backend Architect**
-**📍 Surat, Gujarat, India | 🎓 BCA Final Year**
+# 👨‍💻 Shaikh Mohammed Salman
+**Python Developer | AI Automation Engineer | Backend Architect**
+**📍 Surat, Gujarat, India | 🎓 BCA Graduate (First Class with Distinction - 8.03 CGPA)**
 
-> "I build practical automation systems and software workflows that solve real-world problems."
+> "I build practical AI automation systems and backend workflows that solve real-world business problems."
 
 ---
 <div align="center">
@@ -17,49 +17,55 @@
 
 ### ⚙️ Core Engineering Stack
 * **Programming:** Python, Java, C++, JavaScript, PHP
-* **Automation & AI:** Make.com, Dify, RAG Systems, API Integrations
-* **Databases:** MySQL, PostgreSQL, MongoDB, SQL Server
-* **Web Development:** HTML/CSS, Bootstrap, REST APIs
+* **AI & Automation:** Make.com, n8n, Dify AI, RAG Systems, Vapi.ai, API Webhooks
+* **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
+* **Web Development:** HTML/CSS, Bootstrap, Django, REST APIs
 
 ---
 
 ### 🚀 Architected Solutions (Featured Work)
 
-#### 1. 🤖 Social Media & Lead Automation System
-*An end-to-end automation workflow built for hands-free social media management.*
-* **The Build:** Architected using **Make.com** and **Google Workspace**.
-* **The Impact:** Automatically pulls content from Google Sheets to publish Instagram posts and handles automated replies to user comments, saving hours of manual effort.
+#### 1. 🧠 AI RAG Chatbot
+*A production-ready AI assistant designed for accurate, hallucination-free information retrieval.*
+* **The Build:** Developed using **Dify AI** and custom knowledge base integration.
+* **The Impact:** Retrieves specific data to generate highly contextual responses automatically.
 
-#### 2. 🧠 RAG-Based AI Chatbot
-*A knowledge-based AI assistant designed for accurate information retrieval.*
-* **The Build:** Developed using **Dify AI** and Retrieval-Augmented Generation (RAG) concepts.
-* **The Impact:** Retrieves specific information from uploaded documents to generate highly contextual and accurate responses without hallucination.
+#### 2. 🤖 Lead & Social Media Automation System
+*End-to-end automation workflows built for hands-free management.*
+* **The Build:** Architected using **Make.com**, Google Sheets, and Instagram Graph API.
+* **The Impact:** Automatically captures leads, triggers follow-up emails, publishes posts, and handles auto-replies to comments (saving 5+ hours/week).
 
-#### 3. 🏫 Campus Feedback System
-*A dynamic web portal for university students to submit feedback securely.*
+#### 3. 🎙️ Multilingual AI Voice Assistant
+*A personal self-initiated project demonstrating remote asynchronous learning.*
+* **The Build:** Developed using **Vapi.ai** and **OpenAI/Gemini APIs**.
+* **The Impact:** An end-to-end deployed voice assistant capable of intelligent, multi-language conversational interactions.
+
+#### 4. 📱 WhatsApp Automation Pipeline
+*A robust automated messaging workflow.*
+* **The Build:** Built using **n8n**.
+* **The Impact:** Handles automated messaging, triggers, and responses, completely eliminating manual communication overhead.
+
+#### 5. 🏫 Campus Feedback System & BCA Quiz Game
+*Dynamic web applications built for university students.*
 * **The Build:** Programmed with **PHP**, **MySQL**, and **Bootstrap**.
-* **The Impact:** Streamlines the feedback process with an easy-to-use UI and triggers automated email notifications to administrators upon submission.
-
-#### 4. 📝 BCA Quiz Game Application
-*An academic assessment tool tailored for university curriculum.*
-* **The Build:** Developed to handle dynamic data.
-* **The Impact:** Allows students to practice semester-wise and subject-based Multiple Choice Questions (MCQs) for exam preparation.
+* **The Impact:** Streamlines feedback with email notifications and provides a structured platform for MCQ-based exam preparation.
 
 ---
 
 ### 💼 Professional Experience
 
-**No-Code AI Automation & ERP Experience**
-* Hands-on experience building and deploying No-Code AI Automation workflows to streamline business processes.
-* Maintained and optimized Enterprise Resource Planning (ERP) systems (Delphi), executing complex database queries and supporting full-cycle software development tasks.
+**Python Developer Intern | Digipie Technologies** *(Nov 2025 - Present)*
+* Built RAG chatbots using Dify AI with custom knowledge base integrations.
+* Developed no-code automation workflows using Make.com for lead capture and business process automation.
+* Integrated APIs and webhooks to connect multiple platforms seamlessly.
 
 ---
 
 ### 🌱 Currently Learning & Exploring
-`No-Code AI Automation` • `Advanced API Integrations` • `Agentic AI Workflows` • `Angular 17` • `Django Architecture`
+`No-Code AI (Make/n8n)` • `Agentic AI Workflows` • `Cybersecurity (Kali Linux)` • `Django Architecture`
 
 ---
 
 ### 🌐 Let's Connect
 
-[![LinkedIn Profile](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaikh-salman-5b31182ba)
+[![LinkedIn Profile](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-python-dev)
