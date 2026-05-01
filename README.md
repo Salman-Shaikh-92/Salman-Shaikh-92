@@ -9,12 +9,20 @@
   <h2>📊 GitHub Analytics & Activity</h2>
   
   <!-- Profile Views Counter -->
+<div align="center">
+  <h2>📊 GitHub Analytics & Activity</h2>
+  
   <img src="https://komarev.com/ghpvc/?username=Salman-Shaikh-92&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <br><br>
 
-  <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=Salman-Shaikh-92&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Shaikh-92&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman-Shaikh-92&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
   
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Shaikh-92&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
