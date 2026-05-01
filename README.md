@@ -6,13 +6,27 @@
 
 ---
 <div align="center">
-  <h2>📊 My GitHub Stats</h2>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Salman-Shaikh-92&show_icons=true&theme=radical&hide_border=true" alt="Salman's GitHub Stats" />
+  <h2>📊 GitHub Analytics & Activity</h2>
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Salman-Shaikh-92&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Shaikh-92&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
+  <!-- GitHub Stats & Top Languages (Side-by-Side) -->
+  <a href="https://github.com/Salman-Shaikh-92">
+    <img src="https://github-readme-stats.vercel.app/api?username=Salman-Shaikh-92&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Salman's GitHub Stats" height="195"/>
+  </a>
+  <a href="https://github.com/Salman-Shaikh-92">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Shaikh-92&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="195"/>
+  </a>
+
+  <br><br>
+
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/Salman-Shaikh-92">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman-Shaikh-92&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
 ---
 
 ### ⚙️ Core Engineering Stack
