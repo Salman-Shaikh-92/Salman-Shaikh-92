@@ -14,7 +14,7 @@
 
   <!-- GitHub Stats & Top Languages (Side-by-Side) -->
   <a href="https://github.com/Salman-Shaikh-92">
-    <img src="https://github-readme-stats.vercel.app/api?username=Salman-Shaikh-92&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Salman's GitHub Stats" height="195"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Salman-Shaikh-92&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Salman's GitHub Stats" height="195"/>
   </a>
   <a href="https://github.com/Salman-Shaikh-92">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Shaikh-92&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="195"/>
