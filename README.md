@@ -12,20 +12,16 @@
   <img src="https://komarev.com/ghpvc/?username=Salman-Shaikh-92&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <br><br>
 
-  <!-- GitHub Stats & Top Languages (Side-by-Side) -->
-  <a href="https://github.com/Salman-Shaikh-92">
-    <img src="https://github-readme-stats.vercel.app/api?username=Salman-Shaikh-92&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Salman's GitHub Stats" height="195"/>
-  </a>
-  <a href="https://github.com/Salman-Shaikh-92">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Shaikh-92&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="195"/>
-  </a>
-
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Salman-Shaikh-92&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Shaikh-92&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br><br>
 
   <!-- GitHub Streak Stats -->
-  <a href="https://github.com/Salman-Shaikh-92">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman-Shaikh-92&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman-Shaikh-92&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 ---
 
